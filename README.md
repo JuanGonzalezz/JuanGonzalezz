@@ -1,5 +1,7 @@
 ## Hey there 👋
 
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanGonzalezz&show_icons=true&theme=apprentice)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGonzalez&layout=compact&theme=apprentice)
 
@@ -14,3 +16,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+
+
+![snake gif](https://github.com/JuanGonzalezz/JuanGonzalezz/blob/output/github-snake-dark.svg)
