@@ -16,14 +16,14 @@
   <!-- Top Languages -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGonzalez&layout=compact&card_width=420&theme=city_lights&border_color=00000000&title_color=826fa3"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGonzalez&layout=compact&theme=city_lights&border_color=00000000&title_color=826fa3"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGonzalez&layout=compact&card_width=420&theme=vue-dark&border_color=00000000&title_color=826fa3"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGonzalez&layout=compact&theme=vue-dark&border_color=00000000&title_color=826fa3"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGonzalez&layout=compact&card_width=420" style="height:auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGonzalez&layout=compact" style="height:auto;"/>
   </picture>
 
 </div>
