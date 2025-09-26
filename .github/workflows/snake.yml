@@ -60,7 +60,8 @@ jobs:
 
           github_user_name: ${{ github.repository_owner }}
 
-
+         # 🚫 remove a barra de progresso
+          disable_progress_bar: true
 
           # Define the output files and their configurations
 
